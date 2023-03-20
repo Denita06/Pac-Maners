@@ -1,27 +1,44 @@
 import java.util
 import java util.Random
 import java.util.Dictionary
-
+	
+	
 public class Hangman{
-private int numberOfGamesWon;
-private int numberOfGamesPlayed;
-private int totalPoints 
-private String userName
-}
+  private int numberOfGamesWon;
+  private int numberOfGamesPlayed;
+  private int totalPoints 
+  private String userName
 
-public Hangman(){
-}
-public int getNumberOfGamesWon(){
-}
-public int setNumberOfGamesWon(){
-}
-public void setTheme(){
-}
-Private void letterClicked(Letter actor){
-}
-public void act(){
-}
-public letter(){
-} 
-public void pick(){
+
+  public Hangman(){
+  	return nul;
+  }
+
+  public int getNumberOfGamesWon(){
+  	return null;
+	}
+
+  public int setNumberOfGamesWon(){
+		return null:
+	}
+	
+  public void setTheme(){
+		return null:
+	}
+	
+  private void letterClicked(Letter actor){
+		return null:
+	}
+	
+  public void act(){
+		return null:
+	}
+
+  public letter(){
+		return null:
+	} 
+
+  public void pick(){
+		return null:
+	}
 }
