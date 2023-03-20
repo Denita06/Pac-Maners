@@ -1,15 +1,15 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-import java.util
-import java util.Random
-import java.util.Dictionary
+import java.util;
+import java util.Random;
+import java.util.Dictionary;
 	
 	
 public class Hangman{
   private int numberOfGamesWon;
   private int numberOfGamesPlayed;
-  private int totalPoints 
-  private String userName
+  private int totalPoints; 
+  private String userName;
 
 
   public Hangman(){
