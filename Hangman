@@ -1,1 +1,27 @@
+import java.util
+import java util.Random
+import java.util.Dictionary
 
+public class Hangman{
+private int numberOfGamesWon;
+private int numberOfGamesPlayed;
+private int totalPoints 
+private String userName
+}
+
+public Hangman(){
+}
+public int getNumberOfGamesWon(){
+}
+public int setNumberOfGamesWon(){
+}
+public void setTheme(){
+}
+Private void letterClicked(Letter actor){
+}
+public void act(){
+}
+public letter(){
+} 
+public void pick(){
+}
