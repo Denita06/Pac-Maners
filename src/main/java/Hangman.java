@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 import java.util;
-import java util.Random;
+import java.util.Random;
 import java.util.Dictionary;
 	
 	
@@ -13,7 +13,7 @@ public class Hangman{
 
 
   public Hangman(){
-  	return nul;
+  	return null;
   }
 
   public int getNumberOfGamesWon(){
