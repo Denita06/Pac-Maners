@@ -21,26 +21,26 @@ public class Hangman{
 	}
 
   public int setNumberOfGamesWon(){
-		return null:
+	return null:
 	}
 	
   public void setTheme(){
-		return null:
+	return null:
 	}
 	
   private void letterClicked(Letter actor){
-		return null:
+	return null:
 	}
 	
   public void act(){
-		return null:
+	return null:
 	}
 
   public letter(){
-		return null:
+	return null:
 	} 
 
   public void pick(){
-		return null:
+	return null:
 	}
 }
