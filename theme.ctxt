@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=theme
+comment0.text=\n\ Write\ a\ description\ of\ class\ theme\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=theme()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ theme.\n\ \n
+comment2.params=
+comment2.target=void\ backgroundColor()
+comment3.params=
+comment3.target=void\ font()
+comment4.params=
+comment4.target=void\ playMusic()
+comment5.params=
+comment5.target=void\ pauseMusic()
+numComments=6
